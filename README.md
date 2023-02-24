@@ -6,7 +6,7 @@
 * [Preview](#Preview)
 
 ## General info
-This project consisted of creating a simple mobile D&D character sheet application, React and Firebase. The users are able to create new account, log in into existing account, as well as create, edit and delete their characters. 
+This project consisted of creating a simple mobile D&D character sheet application, React and Firebase. The users are able to create new account, log in into existing account, create, edit and delete their characters, as well as managing their characters Health Points, proficiencies, saving throws, and ammount of money that their character has.
 The project was written in React, as part of a consolidation of the acquired knowledge of the props, components, hooks, as well as fetching and using the data from Firebase.
 This project is still under development!
 Link: https://react-ev0-dnd-app.netlify.app
