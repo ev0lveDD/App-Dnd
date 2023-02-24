@@ -209,3 +209,9 @@ Link {
   justify-self: center;
   margin: auto;
 }
+
+.Error-Message {
+  color:#FF0000;
+  margin: 0;
+  padding: 0;
+}
