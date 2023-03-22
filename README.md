@@ -23,12 +23,12 @@ Project is created with:
 ## Preview
 
 Login view
-![d1](https://user-images.githubusercontent.com/102914983/221119027-b18cca68-62f6-4cb0-86f1-115c06919efc.JPG)
+* ![d1](https://user-images.githubusercontent.com/102914983/221119027-b18cca68-62f6-4cb0-86f1-115c06919efc.JPG)
 
 Character list view
-![d2](https://user-images.githubusercontent.com/102914983/221119066-dba3368e-f80e-4d8e-aca6-337d5fde7256.JPG)
+* ![d2](https://user-images.githubusercontent.com/102914983/221119066-dba3368e-f80e-4d8e-aca6-337d5fde7256.JPG)
 
 Character view
-![d3](https://user-images.githubusercontent.com/102914983/221119110-b15a805b-a6fe-43fd-a620-b477c701ac62.JPG)
-![d4](https://user-images.githubusercontent.com/102914983/221119145-973fd5f1-7928-4d9e-9034-1ffc24775706.JPG)
-![d5](https://user-images.githubusercontent.com/102914983/221119171-79013b8b-a7d5-4f90-8650-5df8440c1540.JPG)
+* ![d3](https://user-images.githubusercontent.com/102914983/221119110-b15a805b-a6fe-43fd-a620-b477c701ac62.JPG)
+* ![d4](https://user-images.githubusercontent.com/102914983/221119145-973fd5f1-7928-4d9e-9034-1ffc24775706.JPG)
+* ![d5](https://user-images.githubusercontent.com/102914983/221119171-79013b8b-a7d5-4f90-8650-5df8440c1540.JPG)
